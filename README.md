@@ -53,8 +53,8 @@
             <option value="all">Todos</option>
             <option value="classA">cascos</option>
             <option value="classB">llantas</option>
-            <option value="classC">guantes C</option>
-             <option value="classD">accesorioC</option>
+            <option value="classC">guantes </option>
+             <option value="classD">accesorio</option>
         </select>
     </div>
     <div class="catalog">
