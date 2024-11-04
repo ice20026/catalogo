@@ -79,25 +79,25 @@
             <p>accesorio</p>
         </div>
  <div class="item books">
-            <img src="3.jpg" alt="Descripción de la imagen 3">
-            <h3>accesorio de moto</h3>
-            <p>accesorio</p>
+            <img src="5.jpg" alt="Descripción de la imagen 3">
+            <h3>llantas de moto</h3>
+            <p>llantas</p>
         </div>
  <div class="item books">
-            <img src="3.jpg" alt="Descripción de la imagen 3">
-            <h3>accesorio de moto</h3>
-            <p>accesorio</p>
+            <img src="6.jpg" alt="Descripción de la imagen 3">
+            <h3>llantas de moto </h3>
+            <p>llantas</p>
         </div>
 
  <div class="item books">
-            <img src="3.jpg" alt="Descripción de la imagen 3">
-            <h3>accesorio de moto</h3>
+            <img src="7.jpg" alt="Descripción de la imagen 3">
+            <h3>llantas de moto</h3>
             <p>accesorio</p>
         </div>
  <div class="item books">
-            <img src="3.jpg" alt="Descripción de la imagen 3">
-            <h3>accesorio de moto</h3>
-            <p>accesorio</p>
+            <img src="8.jpg" alt="Descripción de la imagen 3">
+            <h3>llantas de moto</h3>
+            <p>llantas </p>
         </div>
         <!-- Añade más elementos de catálogo aquí -->
     </div>
