@@ -75,7 +75,7 @@
         </div>
         <div class="item books">
             <img src="3.jpg" alt="Descripción de la imagen 3">
-            <h3>accesorio de moto</h3>
+            <h3>filtro de gasolina</h3>
             <p>accesorio</p>
         </div>
  <div class="item books">
