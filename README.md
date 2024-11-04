@@ -71,12 +71,12 @@
         <div class="item clothing">
             <img src="2.jpg" alt="Descripción de la imagen 2">
             <h3>Producto de Ropa 1</h3>
-            <p>Descripción del producto de ropa 1.</p>
+            <p>Descripción del producto de ro.</p>
         </div>
         <div class="item books">
             <img src="3.jpg" alt="Descripción de la imagen 3">
             <h3>Libro 1</h3>
-            <p>Descripción del libro 1.</p>
+            <p>accesorio</p>
         </div>
         <!-- Añade más elementos de catálogo aquí -->
     </div>
