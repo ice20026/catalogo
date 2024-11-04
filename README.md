@@ -79,23 +79,23 @@
             <p>accesorio</p>
         </div>
  <div class="item books">
-            <img src="5.jpg" alt="Descripción de la imagen 3">
+            <img src="5.jpg" alt="Descripción de la imagen 5">
             <h3>llantas de moto</h3>
             <p>llantas</p>
         </div>
  <div class="item books">
-            <img src="6.jpg" alt="Descripción de la imagen 3">
+            <img src="6.jpg" alt="Descripción de la imagen 6">
             <h3>llantas de moto </h3>
             <p>llantas</p>
         </div>
 
  <div class="item books">
-            <img src="7.jpg" alt="Descripción de la imagen 3">
+            <img src="7.jpg" alt="Descripción de la imagen 7">
             <h3>llantas de moto</h3>
             <p>accesorio</p>
         </div>
  <div class="item books">
-            <img src="8.jpg" alt="Descripción de la imagen 3">
+            <img src="8.jpg" alt="Descripción de la imagen 8">
             <h3>llantas de moto</h3>
             <p>llantas </p>
         </div>
