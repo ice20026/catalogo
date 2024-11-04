@@ -73,11 +73,6 @@
             <h3>accesorio de moto  </h3>
             <p>acessorio.</p>
         </div>
-        <div class="item books">
-            <img src="3.jpg" alt="Descripción de la imagen 3">
-            <h3>filtro de gasolina</h3>
-            <p>accesorio</p>
-        </div>
  <div class="item books">
             <img src="5.jpg" alt="Descripción de la imagen 5">
             <h3>llantas de moto</h3>
@@ -98,8 +93,7 @@
             <img src="8.jpg" alt="Descripción de la imagen 8">
             <h3>llantas de moto</h3>
             <p>llantas </p>
-        </div>
-        <!-- Añade más elementos de catálogo aquí -->
+        </div>  
     </div>
     <script>
         function filterItems() {
