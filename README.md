@@ -53,7 +53,8 @@
             <option value="all">Todos</option>
             <option value="classA">cascos</option>
             <option value="classB">llantas</option>
-            <option value="classC">Clase C</option>
+            <option value="classC">guantes C</option>
+             <option value="classD">accesorioC</option>
         </select>
     </div>
     <div class="catalog">
@@ -134,6 +135,42 @@
             <p>Modelo: pulsar 890</p>
             <p>Cantidad: 16</p>
              <p>precio : 6000</p>
+        </div>
+ <div class="item classC">
+            <h3>Marca: guantes</h3>
+            <p>Modelo: cueron</p>
+            <p>Cantidad: 16</p>
+             <p>precio : 90</p>
+        </div>
+ <div class="item classC">
+            <h3>Marca: guantes</h3>
+            <p>Modelo: goma</p>
+            <p>Cantidad: 86</p>
+             <p>precio : 90</p>
+        </div>
+ <div class="item classC">
+            <h3>Marca: guantes</h3>
+            <p>Modelo: yamaha 90 classic</p>
+            <p>Cantidad: 16</p>
+             <p>precio : 90</p>
+        </div>
+ <div class="item classC">
+            <h3>Marca: guantes</h3>
+            <p>Modelo: suzuki classic</p>
+            <p>Cantidad: 16</p>
+             <p>precio : 100</p>
+        </div>
+ <div class="item classD">
+            <h3>Marca: yamaha</h3>
+            <p>Modelo: x90 </p>
+            <p>luces  </p>
+             <p>precio : 100</p>
+        </div>
+<div class="item classD">
+            <h3>Marca: suzuki</h3>
+            <p>Modelo: x90 </p>
+            <p> frenos  </p>
+             <p>precio : 100</p>
         </div>
         <!-- Añade más elementos de catálogo aquí -->
     </div>
