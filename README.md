@@ -65,15 +65,36 @@
     <div class="catalog">
         <div class="item electronics">
             <img src="1.jpg" alt="Descripción de la imagen 1">
-            <h3>accesorio de moto  1</h3>
+            <h3>accesorio de moto  </h3>
             <p>accesorio.</p>
         </div>
         <div class="item clothing">
             <img src="2.jpg" alt="Descripción de la imagen 2">
-            <h3>accesorio de moto  1</h3>
+            <h3>accesorio de moto  </h3>
             <p>acessorio.</p>
         </div>
         <div class="item books">
+            <img src="3.jpg" alt="Descripción de la imagen 3">
+            <h3>accesorio de moto</h3>
+            <p>accesorio</p>
+        </div>
+ <div class="item books">
+            <img src="3.jpg" alt="Descripción de la imagen 3">
+            <h3>accesorio de moto</h3>
+            <p>accesorio</p>
+        </div>
+ <div class="item books">
+            <img src="3.jpg" alt="Descripción de la imagen 3">
+            <h3>accesorio de moto</h3>
+            <p>accesorio</p>
+        </div>
+
+ <div class="item books">
+            <img src="3.jpg" alt="Descripción de la imagen 3">
+            <h3>accesorio de moto</h3>
+            <p>accesorio</p>
+        </div>
+ <div class="item books">
             <img src="3.jpg" alt="Descripción de la imagen 3">
             <h3>accesorio de moto</h3>
             <p>accesorio</p>
