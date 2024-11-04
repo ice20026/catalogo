@@ -1,7 +1,7 @@
 # catalogo
 
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -56,9 +56,10 @@
         <label for="category">Filtrar por categoría:</label>
         <select id="category" onchange="filterItems()">
             <option value="all">Todos</option>
-            <option value="electronics">Electrónica</option>
-            <option value="clothing">Ropa</option>
-            <option value="books">Libros</option>
+            <option value="electronics">cascos</option>
+            <option value="clothing">guantes</option>
+            <option value="books">llantas</option>
+                <option value="books">accesorio</option>
         </select>
     </div>
     <div class="catalog">
@@ -100,3 +101,31 @@
     </script>
 </body>
 </html>
+
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagen de Fondo</title>
+    <style>
+        body {
+            background-image: url('ruta/a/tu/imagen.jpg'); /* Imagen de fondo */
+            background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
+            background-position: center; /* Centra la imagen */
+            background-repeat: no-repeat; /* Evita que la imagen se repita */
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Hola Mundo!</h1>
+    <p>Este es un ejemplo de una página con una imagen de fondo.</p>
+</body>
+</html>
+
+
+
+
