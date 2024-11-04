@@ -99,6 +99,42 @@
             <p>Cantidad: 16</p>
              <p>precio : 600</p>
         </div>
+   <div class="item classB">
+            <h3>Marca : yamaha</h3>
+            <p>Modelo: anti derrape </p>
+            <p>Cantidad: 16</p>
+             <p>precio : 900</p>
+        </div>
+  <div class="item classB">
+            <h3>Marca: suzuki</h3>
+            <p>Modelo: sport racing </p>
+            <p>Cantidad: 16</p>
+             <p>precio : 600</p>
+        </div>
+  <div class="item classB">
+            <h3>Marca: serpento</h3>
+            <p>Modelo: lluvia</p>
+            <p>Cantidad: 16</p>
+             <p>precio : 600</p>
+        </div>
+  <div class="item classB">
+            <h3>Marca: serpento</h3>
+            <p>Modelo: xxx 15</p>
+            <p>Cantidad: 16</p>
+             <p>precio : 600</p>
+        </div>
+  <div class="item classB">
+            <h3>Marca: tornado </h3>
+            <p>Modelo: c90</p>
+            <p>Cantidad: 16</p>
+             <p>precio : 1000</p>
+        </div>
+  <div class="item classB">
+            <h3>Marca: pulsar</h3>
+            <p>Modelo: pulsar 890</p>
+            <p>Cantidad: 16</p>
+             <p>precio : 6000</p>
+        </div>
         <!-- Añade más elementos de catálogo aquí -->
     </div>
     <script>
