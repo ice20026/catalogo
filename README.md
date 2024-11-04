@@ -52,7 +52,7 @@
         <select id="classFilter" onchange="filterItems()">
             <option value="all">Todos</option>
             <option value="classA">cascos</option>
-            <option value="classB">Clase B</option>
+            <option value="classB">llantas</option>
             <option value="classC">Clase C</option>
         </select>
     </div>
@@ -61,16 +61,43 @@
             <h3>Marca: yamaha</h3>
             <p>Modelo: black </p>
             <p>Cantidad: 10</p>
+              <p>precio : 300</p>
         </div>
         <div class="item classA">
             <h3>Marca: suzuki</h3>
             <p>Modelo: 90 te x</p>
             <p>Cantidad: 5</p>
+              <p>precio : 300</p>
         </div>
         <div class="item classA">
             <h3>Marca: serpento</h3>
             <p>Modelo: Focus 14</p>
             <p>Cantidad: 7</p>
+             <p>precio : 300</p>
+        </div>
+ <div class="item classA">
+            <h3>Marca: serpento</h3>
+            <p>Modelo: extreme 14</p>
+            <p>Cantidad: 14</p>
+      <p>precio : 500</p>
+        </div>
+        <div class="item classA">
+            <h3>Marca: yamaha</h3>
+            <p>Modelo: c90</p>
+            <p>Cantidad: 14</p>
+            <p>precio : 700</p> 
+        </div>
+<div class="item classA">
+            <h3>Marca: suzuki</h3>
+            <p>Modelo: serie sport</p>
+            <p>Cantidad: 14</p>
+     <p>precio : 360</p>
+        </div> 
+        <div class="item classA">
+            <h3>Marca: serpento</h3>
+            <p>Modelo: xxx 15</p>
+            <p>Cantidad: 16</p>
+             <p>precio : 600</p>
         </div>
         <!-- Añade más elementos de catálogo aquí -->
     </div>
@@ -90,7 +117,6 @@
                 }
             }
         }
-
         // Mostrar todos los elementos por defecto
         filterItems();
     </script>
