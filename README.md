@@ -51,25 +51,25 @@
         <label for="classFilter">Filtrar por clase:</label>
         <select id="classFilter" onchange="filterItems()">
             <option value="all">Todos</option>
-            <option value="classA">Clase A</option>
+            <option value="classA">cascos</option>
             <option value="classB">Clase B</option>
             <option value="classC">Clase C</option>
         </select>
     </div>
     <div class="catalog">
         <div class="item classA">
-            <h3>Marca: Toyota</h3>
-            <p>Modelo: Corolla</p>
+            <h3>Marca: yamaha</h3>
+            <p>Modelo: black </p>
             <p>Cantidad: 10</p>
         </div>
-        <div class="item classB">
-            <h3>Marca: Honda</h3>
-            <p>Modelo: Civic</p>
+        <div class="item classA">
+            <h3>Marca: suzuki</h3>
+            <p>Modelo: 90 te x</p>
             <p>Cantidad: 5</p>
         </div>
-        <div class="item classC">
-            <h3>Marca: Ford</h3>
-            <p>Modelo: Focus</p>
+        <div class="item classA">
+            <h3>Marca: serpento</h3>
+            <p>Modelo: Focus 14</p>
             <p>Cantidad: 7</p>
         </div>
         <!-- Añade más elementos de catálogo aquí -->
