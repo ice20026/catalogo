@@ -1,7 +1,6 @@
 # catalogo
 
-
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -25,13 +24,9 @@
             padding: 10px;
             border-radius: 5px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            max-width: 200px;
+            width: 200px;
             text-align: center;
             display: none; /* Ocultar por defecto */
-        }
-        .item img {
-            max-width: 100%;
-            border-radius: 5px;
         }
         .item h3 {
             font-size: 18px;
@@ -53,83 +48,41 @@
 </head>
 <body>
     <div class="filter">
-        <label for="category">Filtrar por categoría:</label>
-        <select id="category" onchange="filterItems()">
+        <label for="classFilter">Filtrar por clase:</label>
+        <select id="classFilter" onchange="filterItems()">
             <option value="all">Todos</option>
-            <option value="electronics">cascos</option>
-            <option value="clothing">guantes</option>
-            <option value="books">llantas</option>
-                <option value="books">accesorio</option>
+            <option value="classA">Clase A</option>
+            <option value="classB">Clase B</option>
+            <option value="classC">Clase C</option>
         </select>
     </div>
     <div class="catalog">
-        <div class="item electronics">
-            <img src="1.jpg" alt="Descripción de la imagen 1">
-            <h3>accesorio de moto  </h3>
-            <p>accesorio.</p>
+        <div class="item classA">
+            <h3>Marca: Toyota</h3>
+            <p>Modelo: Corolla</p>
+            <p>Cantidad: 10</p>
         </div>
-        <div class="item clothing">
-            <img src="2.jpg" alt="Descripción de la imagen 2">
-            <h3>accesorio de moto  </h3>
-            <p>acessorio.</p>
+        <div class="item classB">
+            <h3>Marca: Honda</h3>
+            <p>Modelo: Civic</p>
+            <p>Cantidad: 5</p>
         </div>
- <div class="item books">
-            <img src="5.jpg" alt="Descripción de la imagen 5">
-            <h3>llantas de moto</h3>
-            <p>llantas</p>
+        <div class="item classC">
+            <h3>Marca: Ford</h3>
+            <p>Modelo: Focus</p>
+            <p>Cantidad: 7</p>
         </div>
- <div class="item books">
-            <img src="6.jpg" alt="Descripción de la imagen 6">
-            <h3>llantas de moto </h3>
-            <p>llantas</p>
-        </div>
-
- <div class="item books">
-            <img src="7.jpg" alt="Descripción de la imagen 7">
-            <h3>llantas de moto</h3>
-            <p>accesorio</p>
-        </div>
- <div class="item books">
-            <img src="8.jpg" alt="Descripción de la imagen 8">
-            <h3>llantas de moto</h3>
-            <p>llantas </p>
-        </div>  
- <div class="item books">
-            <img src="c1.jpg" alt="Descripción de la imagen 8">
-            <h3>cascos</h3>
-            <p>casco</p>
-        </div>  
- <div class="item books">
-            <img src="c2.jpg" alt="Descripción de la imagen 8">
-            <h3>casco</h3>
-            <p>casco </p>
-        </div>  
- <div class="item books">
-            <img src="c3.jpg" alt="Descripción de la imagen 8">
-            <h3>casco</h3>
-            <p>casco</p>
-        </div>  
-
- <div class="item books">
-            <img src="c4.jpg" alt="Descripción de la imagen 8">
-            <h3>casco</h3>
-            <p>casco</p>
-        </div>  
- <div class="item books">
-            <img src="c5.jpg" alt="Descripción de la imagen 8">
-            <h3>casco</h3>
-            <p>casco </p>
-        </div>   
+        <!-- Añade más elementos de catálogo aquí -->
     </div>
     <script>
         function filterItems() {
-            var category = document.getElementById("category").value;
+            var classFilter = document.getElementById("classFilter").value;
             var items = document.getElementsByClassName("item");
             for (var i = 0; i < items.length; i++) {
-                if (category === "all") {
+                if (classFilter === "all") {
                     items[i].style.display = "block";
                 } else {
-                    if (items[i].classList.contains(category)) {
+                    if (items[i].classList.contains(classFilter)) {
                         items[i].style.display = "block";
                     } else {
                         items[i].style.display = "none";
@@ -137,33 +90,10 @@
                 }
             }
         }
-    // Mostrar todos los elementos por defecto
+
+        // Mostrar todos los elementos por defecto
         filterItems();
     </script>
-</body>
-</html>
-
-
-
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Imagen de Fondo</title>
-    <style>
-        body {
-            background-image: url('ruta/a/tu/imagen.jpg'); /* Imagen de fondo */
-            background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
-            background-position: center; /* Centra la imagen */
-            background-repeat: no-repeat; /* Evita que la imagen se repita */
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-    </style>
-</head>
-<body>
-    <h1>¡Hola Mundo!</h1>
-    <p>Este es un ejemplo de una página con una imagen de fondo.</p>
 </body>
 </html>
 
