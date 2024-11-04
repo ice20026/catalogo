@@ -94,6 +94,32 @@
             <h3>llantas de moto</h3>
             <p>llantas </p>
         </div>  
+ <div class="item books">
+            <img src="c1.jpg" alt="Descripción de la imagen 8">
+            <h3>cascos</h3>
+            <p>casco</p>
+        </div>  
+ <div class="item books">
+            <img src="c2.jpg" alt="Descripción de la imagen 8">
+            <h3>casco</h3>
+            <p>casco </p>
+        </div>  
+ <div class="item books">
+            <img src="c3.jpg" alt="Descripción de la imagen 8">
+            <h3>casco</h3>
+            <p>casco</p>
+        </div>  
+
+ <div class="item books">
+            <img src="c4.jpg" alt="Descripción de la imagen 8">
+            <h3>casco</h3>
+            <p>casco</p>
+        </div>  
+ <div class="item books">
+            <img src="c5.jpg" alt="Descripción de la imagen 8">
+            <h3>casco</h3>
+            <p>casco </p>
+        </div>   
     </div>
     <script>
         function filterItems() {
