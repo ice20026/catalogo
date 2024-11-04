@@ -64,17 +64,17 @@
     </div>
     <div class="catalog">
         <div class="item electronics">
-            <img src="ruta/a/tu/imagen1.jpg" alt="Descripción de la imagen 1">
+            <img src="1.jpg" alt="Descripción de la imagen 1">
             <h3>Producto Electrónico 1</h3>
             <p>Descripción del producto electrónico 1.</p>
         </div>
         <div class="item clothing">
-            <img src="ruta/a/tu/imagen2.jpg" alt="Descripción de la imagen 2">
+            <img src="2.jpg" alt="Descripción de la imagen 2">
             <h3>Producto de Ropa 1</h3>
             <p>Descripción del producto de ropa 1.</p>
         </div>
         <div class="item books">
-            <img src="ruta/a/tu/imagen3.jpg" alt="Descripción de la imagen 3">
+            <img src="3.jpg" alt="Descripción de la imagen 3">
             <h3>Libro 1</h3>
             <p>Descripción del libro 1.</p>
         </div>
